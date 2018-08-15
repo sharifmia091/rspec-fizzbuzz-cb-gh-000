@@ -11,8 +11,8 @@ def fizzbuzz(number)
             return "Fizz"
         when divisibleBy5
             return "Buzz"
-        else
-            return "Nill"
+
+        
     end
 
 end
