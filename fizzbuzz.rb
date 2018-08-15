@@ -8,5 +8,3 @@ def fizzbuzz(number)
   elsif number %5 == 0
     return "Buzz"
 end
-    
-    
