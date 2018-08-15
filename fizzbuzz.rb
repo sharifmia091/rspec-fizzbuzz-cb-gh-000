@@ -12,7 +12,7 @@ def fizzbuzz(number)
         when divisibleBy5
             return "Buzz"
 
-        
+
     end
 
 end
